@@ -1,4 +1,4 @@
-ass LogInForm < Reform::Form
+class LogInForm < Reform::Form
 
   property :remember_me, empty: true
 
