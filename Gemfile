@@ -6,6 +6,7 @@ gem 'rails', '4.2.0'
 
 # Reform form validation and processing
 gem 'reform', '2.2.1'
+gem 'reform-rails', '0.1.4'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
