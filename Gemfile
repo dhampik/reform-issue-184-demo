@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0'
 
 # Reform form validation and processing
-gem 'reform', '1.2.5'
+gem 'reform', '2.2.1'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
